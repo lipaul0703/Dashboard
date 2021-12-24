@@ -1,0 +1,15 @@
+.header{
+    height: 300px;
+    background-color: rgb(255, 102, 0);
+}
+.center{
+    height: 300px;
+    display: inline;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.bottom{
+    height: 300px;
+    background-color: blue;
+}
